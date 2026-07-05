@@ -11,7 +11,7 @@ Building end-to-end projects across **machine learning**, **computer vision**, *
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/JorgeGonzalezzz">
-    <img src="https://img.shields.io/badge/GitHub-JorgeGonzalezzz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:jgonzalezperezoleaga@gmail.com">
     <img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
